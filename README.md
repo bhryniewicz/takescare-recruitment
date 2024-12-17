@@ -13,7 +13,7 @@ nvm use v18.18.0
 to install packages
 
 ```bash
-nvm install -f
+npm install -f
 ```
 
 and to start project
